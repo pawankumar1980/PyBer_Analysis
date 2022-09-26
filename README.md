@@ -15,7 +15,8 @@ The two data frames were merged, and the groupby() function was used to calculat
 <img width="468" alt="Deliverable 1" src="https://user-images.githubusercontent.com/111800568/192164554-97983dc8-12b5-4d98-aaa0-01ed90b90aa6.png">
 
 
-
+-  Urban cities have the highest ridership demand, while rural cities have the least. They had 4X+ more drivers than Suburban cities. There are more drivers than rides in urban cities, and shorter travel distances mean both average fare per driver and average fare per ride are on the lower side.
+-  Rural cities had the least number of drivers and, as a result, had the average fare per driver even though the ratio of total rides to total drivers is equivalent to the Suburban city type.
 
 
 
