@@ -25,7 +25,8 @@ The two data frames were merged, and the groupby() function was used to calculat
 The data was grouped into a new dataframe and then grouped by weeks to show the rleation between total fares and the different city types.
 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/111800568/192177740-50bbe57f-6997-4594-baec-53a152f99f4a.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/111800568/192178643-631d1129-f975-414b-8a69-76ef24acb148.png)
+
 
 
 - The fares across the different city types peaked by the end of February. From March-April, the fares kept oscillating, reaching Feb end levels in the case of Urban and Rural cities. Post-April, the fares in Urban and Rural cities dropped while they increased in Semi-urban cities.
