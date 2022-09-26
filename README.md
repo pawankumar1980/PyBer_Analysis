@@ -32,3 +32,15 @@ The data was grouped into a new dataframe and then grouped by weeks to show the 
 - The fares across the different city types peaked by the end of February. From March-April, the fares kept oscillating, reaching Feb end levels in the case of Urban and Rural cities. Post-April, the fares in Urban and Rural cities dropped while they increased in Semi-urban cities.
 
 
+## Recommendations
+
+- In Urban cities, the number of drivers is on the higher side. This number impacts the average earnings of the drivers. Pyber should
+Ideally, increase the number of rides through advertising, competitive pricing, and innovative customer acquisition strategies. 
+Risk of business and service getting affected due to driver motivation issues and increase in the churn of the drivers. 
+
+- In the case of rural cities, the number of rides is minimal. As a result, the other two indicators look better. Pyber should consider increasing the footprint in rural cities to increase the rides. To grow the business, it can look at inter-city travel, differentiated pricing, and innovative product offerings.
+
+- The results of the summary DataFrame could be due to Urban city types being more compact, which collects a lower average fare per ride, while Rural city types are more spread out, which would contain a higher average fare per ride. To test this theory, PyBer should work to include mileage distance data as part of the data collection process and analysis.
+
+
+
